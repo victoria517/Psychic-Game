@@ -9,8 +9,12 @@ h1 {
 }
 
 h1 {
-    text-shadow: 2px 2px 5px white;
+    text-shadow: 2px 2px 5px RED;
     height: 100px;
+}
+
+h2 {
+    color: aliceblue;
 }
 
 p {
@@ -20,4 +24,5 @@ p {
     line-height: 20px;
 
 }
+
 
