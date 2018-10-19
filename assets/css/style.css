@@ -1,0 +1,23 @@
+body {
+    background-image: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/r3mI9A8Cgj1r4tmgl/videoblocks-4k-abstract-mysterious-particles-with-blank-sphere-center-background-colorful-glitter-particle-vector-abstract-background-computer-designed-animation-uhd-ultra-hd_s-cll8drg_thumbnail-full01.png");
+}
+
+h1 {
+    text-align: center;
+    padding-top: 50px;
+    margin-bottom: 50px;
+}
+
+h1 {
+    text-shadow: 2px 2px 5px white;
+    height: 100px;
+}
+
+p {
+    color: white;
+    height: 100px;
+    text-align: center;
+    line-height: 20px;
+
+}
+
